@@ -1,0 +1,21 @@
+html, body{
+  height: 100%;
+}
+#type{
+  height: 10vh;
+  color:black;
+    font-size: 50px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+
+button{
+  width:25%;
+  background-color: #05001f;
+  color: white;
+  font-size:200%;
+    height:9.5vw;
+    width:9.5vw;
+   border-radius:100px;
+  border: 2px solid white
+}
